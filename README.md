@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👨‍🎓 I'm a PhD candidate researching wave energy and a self taught programmer
+
+🌱 I'm most proficient in Python and MATLAB, but I like to learn web, game, and mobile development whenever I can.
+
+🔭 I'm working on a weightlifting app for android, but I'm thinking to migrate over to iOS.
+
+⚡ I like to make automate boring tasks in Python with bots.
